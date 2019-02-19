@@ -1,2 +1,2 @@
 # Platformer
-2 Platformer
+2D Platformer
